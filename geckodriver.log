@@ -1,0 +1,19 @@
+1683132005756	geckodriver	INFO	Listening on 127.0.0.1:54361
+1683132006245	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mn/qs9fxt215vx8fhxk_hd92r940000gn/T/rust_mozprofileCno51K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683132006880	Marionette	INFO	Marionette enabled
+1683132007108	Marionette	INFO	Listening on port 54373
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54373
+WebDriver BiDi listening on ws://127.0.0.1:54362
+1683132007263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mn/qs9fxt215vx8fhxk_hd92r940000gn/T/rust_mozprofileCno51K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54362/devtools/browser/8b6d066e-acfd-4404-bbe9-b9fd39f5aa08
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4214802/js/4189866/3812534/4212053/3812535/3812291/3805571/3908752/3879255/4121861/4001808.js, line 1560: unreachable code after return statement
+JavaScript warning: https://www.ncbi.nlm.nih.gov/sra, line 550: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ncbi.nlm.nih.gov."
+JavaScript warning: https://www.ncbi.nlm.nih.gov/sra/?term=direct+RNA-seq+and+bacteria+and+ONT, line 550: unreachable code after return statement
+JavaScript warning: https://www.ncbi.nlm.nih.gov/Traces/study/?WebEnv=MCID_64528e7ee0fb4a5fff005860&query_key=1, line 550: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
