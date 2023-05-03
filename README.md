@@ -1,4 +1,4 @@
-# Next Generation Sequencing - Google Cloud Platform
+# Next Generation Sequencing data - Google Cloud Platform
 
 This repository contains the code to retrieve NGS data from the SRA-NCBI and store it in a bucket from GCP and record the existing files in a database on BigQuery.
 
