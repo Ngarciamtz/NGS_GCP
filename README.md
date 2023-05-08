@@ -5,7 +5,7 @@ More recently, long-reads sequencing data, obtained through Next Generation Sequ
 However, the use of NGS techniques is also computer-intensive, limiting the use of such data to the groups which already have access to the necessary software to perform the required analyses. Hence, this project is focused on recovering NGS data from a public database (SRA - NCBI) and uploading them to Google Cloud Platform (GCP) and make it accessible for the subsequent use.
 
 ## Installation
-The code begins with a web driver to open a Firefox tab, hence, Firefox is required or it is also possible to change the browser (refer to the Selenium documentation).
+The code begins with a web driver to open a Firefox tab, hence, Firefox is required or it is also possible to change the browser (refer to the Selenium documentation). An account on Google Cloud Products is also needed to set up the bucket and database.
 
 ### Usage
 Get the sequencing data and access the metadata, to upload it to GCP and transfer the metadata to BigQuery to set up a record for the sequences in the bucket.
